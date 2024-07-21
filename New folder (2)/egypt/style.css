@@ -1,0 +1,13 @@
+nav ul{
+    background-color: sandybrown;
+    border-style: solid;
+    border-color: seashell;
+    border-width: 2px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+body{
+    background-color: peachpuff;
+    font-family: "Helvetica", sans-serif;
+}
